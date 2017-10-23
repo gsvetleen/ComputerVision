@@ -1,0 +1,5 @@
+Imagevalue|CenterX|CenterY|Area|Orientation|MinimumInertia
+Object1
+ 15 263 349 7976 0.345118 4272862
+Object2
+ 6 256 195 2225 -0.899603 403880
